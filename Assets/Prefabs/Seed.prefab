@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4703161160651125593
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4703161160651125591}
+  - component: {fileID: 4703161160651125590}
+  m_Layer: 0
+  m_Name: Seed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4703161160651125591
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703161160651125593}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4703161160651125590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703161160651125593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07377117ac1f6d943ac2e74de1ec4253, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keybindsData:
+    keyboardJump: 32
+    keyboardLeft: 276
+    keyboardRight: 275
+    keyboardUp: 273
+    keyboardDown: 274
+    keyboardPunchKey: 100
+    keyboardStealthKey: 115
+    keyboardCrouchKey: 304
+    keyboardUse: 101
+    keyboardInventory: 99
+    keyboardDodge: 102
+  playerStats:
+    currentHealth: 50
+    maxHealth: 50
+    strength: 2
+    dexterity: 2
+    currentMana: 0
+    maxMana: 0
+    currentImagination: 0
+    maxImagination: 0
+    weapon: 1
+  playerMovement:
+    gravityEqualizator: 8
+    gravity: 4.8
+    jumpHeightMultiplicator: 2.8
+    movementSpeed: 5
+  monkStats:
+    currentHealth: 15
+    maxHealth: 15
+    strength: 1
+    dexterity: 3
+    currentMana: 0
+    maxMana: 0
+    currentImagination: 0
+    maxImagination: 0
+    weapon: 1
+  monkData:
+    rangeOfVision: 10
+    angleOfVision: 20
+    minRangeOfAttack: 1
+    maxRangeOfAttack: 1
+    canAttack: 1
+    attackCooldown: 1
+  monkMovement:
+    gravityEqualizator: 5
+    gravity: 4.3
+    jumpHeightMultiplicator: 9
+    movementSpeed: 3.5
+  skelArcherStats:
+    currentHealth: 20
+    maxHealth: 20
+    strength: 0
+    dexterity: 2
+    currentMana: 0
+    maxMana: 0
+    currentImagination: 0
+    maxImagination: 0
+    weapon: 4
+  skelArcherData:
+    rangeOfVision: 25
+    angleOfVision: 75
+    minRangeOfAttack: 5
+    maxRangeOfAttack: 15
+    canAttack: 1
+    attackCooldown: 1.5
+  skelArcherMovement:
+    gravityEqualizator: 5
+    gravity: 4.3
+    jumpHeightMultiplicator: 0
+    movementSpeed: 5.1
+  skelSwordStats:
+    currentHealth: 15
+    maxHealth: 15
+    strength: 1
+    dexterity: 1
+    currentMana: 0
+    maxMana: 0
+    currentImagination: 0
+    maxImagination: 0
+    weapon: 3
+  skelSwordData:
+    rangeOfVision: 10
+    angleOfVision: 20
+    minRangeOfAttack: 1.5
+    maxRangeOfAttack: 1.5
+    canAttack: 1
+    attackCooldown: 1.5
+  skelSwordMovement:
+    gravityEqualizator: 5
+    gravity: 4.3
+    jumpHeightMultiplicator: 0
+    movementSpeed: 5
+  shamanStats:
+    currentHealth: 50
+    maxHealth: 50
+    strength: 3
+    dexterity: 7
+    currentMana: 0
+    maxMana: 0
+    currentImagination: 0
+    maxImagination: 0
+    weapon: 0
+  shamanData:
+    rangeOfVision: 0
+    angleOfVision: 0
+    minRangeOfAttack: 0
+    maxRangeOfAttack: 0
+    canAttack: 0
+    attackCooldown: 0
+  normalPunch:
+    dieToRoll: 1
+    type: 0
+  soldierPunch:
+    dieToRoll: 4
+    type: 0
+  knife:
+    dieToRoll: 4
+    type: 0
+  sword:
+    dieToRoll: 6
+    type: 0
+  bow:
+    dieToRoll: 6
+    type: 1
+  hook:
+    dieToRoll: 0
+    type: 1

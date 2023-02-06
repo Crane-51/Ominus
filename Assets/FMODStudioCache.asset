@@ -1,0 +1,430 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6666037670220054217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Jump
+  guid: 02eead9a228b0840984e7720fc688751
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 189
+--- !u!114 &-5214549558239555341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Land
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Land
+  guid: bf44529b6778b549801d0b61a70ff970
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 500
+--- !u!114 &-4810019665871485180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Enemies/Sword hit and swing
+  m_EditorClassIdentifier: 
+  Path: event:/Enemies/Sword hit and swing
+  guid: d4f157007294b84582a97fc7c3d25716
+  Banks:
+  - {fileID: -2920808065289539248}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 875
+--- !u!114 &-3924847861796244997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Items/Barrel Destroyed
+  m_EditorClassIdentifier: 
+  Path: event:/Items/Barrel Destroyed
+  guid: 4cf2e26de7545646bffe88e2c19cb423
+  Banks:
+  - {fileID: 7885082398492216793}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1484
+--- !u!114 &-3560951982572777638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Enemies/Bow Tension fire arrow
+  m_EditorClassIdentifier: 
+  Path: event:/Enemies/Bow Tension fire arrow
+  guid: f54b9f9b2f4024429036d2d9aff00af0
+  Banks:
+  - {fileID: -2920808065289539248}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2063
+--- !u!114 &-2920808065289539248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Enemy.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Projects\Ominus\Assets\FMOD Assets\Enemy.bank
+  lastModified: 638111408863607749
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 382976
+  Exists: 1
+--- !u!114 &-2253353627162060527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Footsteps Run
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Footsteps Run
+  guid: 58114eec3f14d74f9863f440551588e4
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &-1219879981541573047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Punch Swing
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Punch Swing
+  guid: 0b3691f76d125a47a378ebfa119a3135
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 185
+--- !u!114 &-811720196178462373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Items/Urn destroy
+  m_EditorClassIdentifier: 
+  Path: event:/Items/Urn destroy
+  guid: 03cfd2a9f5a205458c9f967536b6408b
+  Banks:
+  - {fileID: 7885082398492216793}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 3631847823956703252}
+  - {fileID: 5290450297808796773}
+  - {fileID: -2920808065289539248}
+  - {fileID: 8151948425018792993}
+  - {fileID: 7885082398492216793}
+  - {fileID: 7052031531309683166}
+  EditorEvents:
+  - {fileID: -4810019665871485180}
+  - {fileID: -3560951982572777638}
+  - {fileID: -811720196178462373}
+  - {fileID: -3924847861796244997}
+  - {fileID: -6666037670220054217}
+  - {fileID: 962165781035365596}
+  - {fileID: -1219879981541573047}
+  - {fileID: 3559004671489445474}
+  - {fileID: -2253353627162060527}
+  - {fileID: 7557119705353005212}
+  - {fileID: -5214549558239555341}
+  - {fileID: 5396041826780857326}
+  MasterBanks:
+  - {fileID: 5290450297808796773}
+  StringsBanks:
+  - {fileID: 3631847823956703252}
+  stringsBankWriteTime: 638111408863648542
+  cacheVersion: 3
+--- !u!114 &962165781035365596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Footsteps Behind Doors Walk
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Footsteps Behind Doors Walk
+  guid: 06e6898fde9ef84eb907a6fe17d9cf14
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 843
+--- !u!114 &3559004671489445474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Punch Land
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Punch Land
+  guid: 3f7e278d18f87145bc1e560cbde36f78
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 240
+--- !u!114 &3631847823956703252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets\FMOD Assets\Master Bank.strings.bank
+  lastModified: 638111408863648542
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 1462
+  Exists: 1
+--- !u!114 &5290450297808796773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Projects\Ominus\Assets\FMOD Assets\Master Bank.bank
+  lastModified: 638111408863585026
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 12474
+  Exists: 1
+--- !u!114 &5396041826780857326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Footsteps Walk
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Footsteps Walk
+  guid: d6d2d2d0162a14419fbbf023ede02566
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &7052031531309683166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Character Bank.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Projects\Ominus\Assets\FMOD Assets\Character Bank.bank
+  lastModified: 638111408863627869
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 274080
+  Exists: 1
+--- !u!114 &7557119705353005212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Main Character/Pull up
+  m_EditorClassIdentifier: 
+  Path: event:/Main Character/Pull up
+  guid: 8513723f90999b45b362c1e0121d5b2b
+  Banks:
+  - {fileID: 7052031531309683166}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 450
+--- !u!114 &7885082398492216793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Items.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Projects\Ominus\Assets\FMOD Assets\Items.bank
+  lastModified: 638111408863627869
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 166080
+  Exists: 1
+--- !u!114 &8151948425018792993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ambience.bank
+  m_EditorClassIdentifier: 
+  Path: C:\Projects\Ominus\Assets\FMOD Assets\Ambience.bank
+  lastModified: 638111408863585026
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 450
+  Exists: 1

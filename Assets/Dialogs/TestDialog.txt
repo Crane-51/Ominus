@@ -1,0 +1,9 @@
+ana#Ana#Who goes there?
+mirko#Mirko#It's me Mario
+ana#Ana#Mario who?
+jure#Jure#Can you two please keep quite I'm trying to sleep here?
+ana#Ana#No.
+mirko#Mirko#Nope.
+
+Player#Player#Hello there!
+jure#Monk#May the Force be with you.

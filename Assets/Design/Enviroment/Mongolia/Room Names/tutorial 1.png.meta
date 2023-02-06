@@ -1,0 +1,3404 @@
+fileFormatVersion: 2
+guid: dfd3fe53938e35c44b977e814c3e8ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8793639957104055765
+    second: idle_0
+  - first:
+      213: 6084859605308855041
+    second: idle_1
+  - first:
+      213: 8603369663158992956
+    second: idle_2
+  - first:
+      213: -5906421172241655209
+    second: idle_3
+  - first:
+      213: 5704420531145803721
+    second: idle_4
+  - first:
+      213: -148617073940163930
+    second: idle_5
+  - first:
+      213: 4729606205655721961
+    second: idle_6
+  - first:
+      213: -2073685336235588006
+    second: idle_7
+  - first:
+      213: -221397478494341451
+    second: tutorial 1_0
+  - first:
+      213: 1311395915367532926
+    second: tutorial 1_1
+  - first:
+      213: -8855180956692872117
+    second: tutorial 1_2
+  - first:
+      213: -6344466511701456800
+    second: tutorial 1_3
+  - first:
+      213: -4352400295235533793
+    second: tutorial 1_4
+  - first:
+      213: 1281411588240021115
+    second: tutorial 1_5
+  - first:
+      213: -6825594386088659722
+    second: tutorial 1_6
+  - first:
+      213: 3137045474965162198
+    second: tutorial 1_7
+  - first:
+      213: -382242811761535117
+    second: tutorial 1_8
+  - first:
+      213: 6218592973898485374
+    second: tutorial 1_9
+  - first:
+      213: -6460586073142552635
+    second: tutorial 1_10
+  - first:
+      213: 5339856320976683588
+    second: tutorial 1_11
+  - first:
+      213: -1202894606403051447
+    second: tutorial 1_12
+  - first:
+      213: -3962471841914430807
+    second: tutorial 1_13
+  - first:
+      213: -5703334173107469085
+    second: tutorial 1_14
+  - first:
+      213: 2119693746743581494
+    second: tutorial 1_15
+  - first:
+      213: -7749299690585204667
+    second: tutorial 1_16
+  - first:
+      213: 2309580826779121431
+    second: tutorial 1_17
+  - first:
+      213: -5073982237466967461
+    second: tutorial 1_18
+  - first:
+      213: -1841741222050035418
+    second: tutorial 1_19
+  - first:
+      213: -8244598179498895173
+    second: tutorial 1_20
+  - first:
+      213: 6268385796736607013
+    second: tutorial 1_21
+  - first:
+      213: 5036178906158664226
+    second: tutorial 1_22
+  - first:
+      213: 3611159296372461534
+    second: tutorial 1_23
+  - first:
+      213: -4400833251749034671
+    second: tutorial 1_24
+  - first:
+      213: 4696498235318782140
+    second: tutorial 1_25
+  - first:
+      213: 600101843701075166
+    second: tutorial 1_26
+  - first:
+      213: 6412101256173554438
+    second: tutorial 1_27
+  - first:
+      213: -1529555156369933937
+    second: tutorial 1_28
+  - first:
+      213: 1280675199707266094
+    second: tutorial 1_29
+  - first:
+      213: 7898798600786009983
+    second: tutorial 1_30
+  - first:
+      213: 4895499621704839500
+    second: tutorial 1_31
+  - first:
+      213: 6557831566748795749
+    second: tutorial 1_32
+  - first:
+      213: -1320380716419928994
+    second: tutorial 1_33
+  - first:
+      213: -8961285183339877556
+    second: tutorial 1_34
+  - first:
+      213: 2307249840237202060
+    second: tutorial 1_35
+  - first:
+      213: 9110426898281474848
+    second: tutorial 1_36
+  - first:
+      213: -966396871853075840
+    second: tutorial 1_37
+  - first:
+      213: 2541301786884077204
+    second: tutorial 1_38
+  - first:
+      213: -6682995778033607509
+    second: tutorial 1_39
+  - first:
+      213: 165391287734206772
+    second: tutorial 1_40
+  - first:
+      213: 1869183407626857642
+    second: tutorial 1_41
+  - first:
+      213: 1954675766296694254
+    second: tutorial 1_42
+  - first:
+      213: 636036438041604901
+    second: tutorial 1_43
+  - first:
+      213: 4714584214067658629
+    second: tutorial 1_44
+  - first:
+      213: -5309122924201636878
+    second: tutorial 1_45
+  - first:
+      213: 7743183594690699711
+    second: tutorial 1_46
+  - first:
+      213: 7949006843987099190
+    second: tutorial 1_47
+  - first:
+      213: 5843074917085334722
+    second: tutorial 1_48
+  - first:
+      213: 8398630863281905448
+    second: tutorial 1_49
+  - first:
+      213: -4649050709166088055
+    second: tutorial 1_50
+  - first:
+      213: 2140339377788273980
+    second: tutorial 1_51
+  - first:
+      213: -7604174924470408389
+    second: tutorial 1_52
+  - first:
+      213: -7266064521913781824
+    second: tutorial 1_53
+  - first:
+      213: -5625662267183124392
+    second: tutorial 1_54
+  - first:
+      213: 3950514536282875571
+    second: tutorial 1_55
+  - first:
+      213: -3279594122543739147
+    second: tutorial 1_56
+  - first:
+      213: 3400794630903766640
+    second: tutorial 1_57
+  - first:
+      213: 4713890424555170449
+    second: tutorial 1_58
+  - first:
+      213: -1879654842473165204
+    second: tutorial 1_59
+  - first:
+      213: 5150174721229750946
+    second: tutorial 1_60
+  - first:
+      213: 7753644367366953856
+    second: tutorial 1_61
+  - first:
+      213: -2318826333629863914
+    second: tutorial 1_62
+  - first:
+      213: -4109150768492726572
+    second: tutorial 1_63
+  - first:
+      213: -9044762533696107935
+    second: tutorial 1_64
+  - first:
+      213: -4148084304624951628
+    second: tutorial 1_65
+  - first:
+      213: -3286256919956649379
+    second: tutorial 1_66
+  - first:
+      213: -247890654551881788
+    second: tutorial 1_67
+  - first:
+      213: 8815006253118557942
+    second: tutorial 1_68
+  - first:
+      213: 5963668527655346010
+    second: tutorial 1_69
+  - first:
+      213: 8849975389791443537
+    second: tutorial 1_70
+  - first:
+      213: -5479844449833536287
+    second: tutorial 1_71
+  - first:
+      213: -498289575910168235
+    second: tutorial 1_72
+  - first:
+      213: -2198323502466927246
+    second: tutorial 1_73
+  - first:
+      213: 6464189607776665770
+    second: tutorial 1_74
+  - first:
+      213: 7280860662960639918
+    second: tutorial 1_75
+  - first:
+      213: -7561063310283649032
+    second: tutorial 1_76
+  - first:
+      213: -5272219496013899311
+    second: tutorial 1_77
+  - first:
+      213: -609401817480257831
+    second: tutorial 1_78
+  - first:
+      213: -8637052218514920254
+    second: tutorial 1_79
+  - first:
+      213: -6729288861455648431
+    second: tutorial 1_80
+  - first:
+      213: -1212319695697309414
+    second: tutorial 1_81
+  - first:
+      213: 8310023512436038674
+    second: tutorial 1_82
+  - first:
+      213: 7720231546825824750
+    second: tutorial 1_83
+  - first:
+      213: -6150247383390999064
+    second: tutorial 1_84
+  - first:
+      213: -6017666792477834502
+    second: tutorial 1_85
+  - first:
+      213: 9083894153984585494
+    second: tutorial 1_86
+  - first:
+      213: 8225260078486434935
+    second: tutorial 1_87
+  - first:
+      213: 8209407948555446848
+    second: tutorial 1_88
+  - first:
+      213: 4845863482889434177
+    second: tutorial 1_89
+  - first:
+      213: 7915006890106247674
+    second: tutorial 1_90
+  - first:
+      213: 8155925205862249568
+    second: tutorial 1_91
+  - first:
+      213: -3118846081520507142
+    second: tutorial 1_92
+  - first:
+      213: 7714229042170401989
+    second: tutorial 1_93
+  - first:
+      213: -2675194911561700438
+    second: tutorial 1_94
+  - first:
+      213: 1058381674278086557
+    second: tutorial 1_95
+  - first:
+      213: -9196682277400717052
+    second: tutorial 1_96
+  - first:
+      213: 2053091767098958792
+    second: tutorial 1_97
+  - first:
+      213: -1655936319342779897
+    second: tutorial 1_98
+  - first:
+      213: -8661568718306221820
+    second: tutorial 1_99
+  - first:
+      213: -8069607526375808718
+    second: tutorial 1_100
+  - first:
+      213: 8328739212792593472
+    second: tutorial 1_101
+  - first:
+      213: -6920607587128657800
+    second: tutorial 1_102
+  - first:
+      213: -6136783300610862354
+    second: tutorial 1_103
+  - first:
+      213: -728173562989224422
+    second: tutorial 1_104
+  - first:
+      213: -7282170537141162020
+    second: tutorial 1_105
+  - first:
+      213: -2288144425198411430
+    second: tutorial 1_106
+  - first:
+      213: -7320725543593127184
+    second: tutorial 1_107
+  - first:
+      213: -5493684679684890384
+    second: tutorial 1_108
+  - first:
+      213: 7798891478916152587
+    second: tutorial 1_109
+  - first:
+      213: -7073244043991789312
+    second: tutorial 1_110
+  - first:
+      213: 7976769633376666680
+    second: tutorial 1_111
+  - first:
+      213: 6181255104067858205
+    second: tutorial 1_112
+  - first:
+      213: -6799981305053085500
+    second: tutorial 1_113
+  - first:
+      213: 235185923807552421
+    second: tutorial 1_114
+  - first:
+      213: 6982802362332327508
+    second: tutorial 1_115
+  - first:
+      213: -1842600948712065695
+    second: tutorial 1_116
+  - first:
+      213: 2234111928726658020
+    second: tutorial 1_117
+  - first:
+      213: 7233665842267119730
+    second: tutorial 1_118
+  - first:
+      213: 6174063843691235040
+    second: tutorial 1_119
+  - first:
+      213: 3268926699226023051
+    second: tutorial 1_120
+  - first:
+      213: 6966461569167541927
+    second: tutorial 1_121
+  - first:
+      213: 6802654419910787039
+    second: tutorial 1_122
+  - first:
+      213: 2700781646056705564
+    second: tutorial 1_123
+  - first:
+      213: 5259301205891957078
+    second: tutorial 1_124
+  - first:
+      213: 1442423107002302726
+    second: tutorial 1_125
+  - first:
+      213: -3015090960380428260
+    second: tutorial 1_126
+  - first:
+      213: -1287498942509585427
+    second: tutorial 1_127
+  - first:
+      213: -6332540056739113587
+    second: tutorial 1_128
+  - first:
+      213: 8346392749423233844
+    second: tutorial 1_129
+  - first:
+      213: -8292804294561570104
+    second: tutorial 1_130
+  - first:
+      213: -7064865459007209606
+    second: tutorial 1_131
+  - first:
+      213: -1010223638071321064
+    second: tutorial 1_132
+  - first:
+      213: 2337586517823953346
+    second: tutorial 1_133
+  - first:
+      213: -6136394230077335349
+    second: tutorial 1_134
+  - first:
+      213: -263983400520384637
+    second: tutorial 1_135
+  - first:
+      213: -3721209575088854925
+    second: tutorial 1_136
+  - first:
+      213: 6676623901669508635
+    second: tutorial 1_137
+  - first:
+      213: -5400084338908992560
+    second: tutorial 1_138
+  - first:
+      213: -4765696170557257382
+    second: tutorial 1_139
+  - first:
+      213: -400754133510074954
+    second: tutorial 1_140
+  - first:
+      213: -4387613507416166459
+    second: tutorial 1_141
+  - first:
+      213: 4307980035207237979
+    second: tutorial 1_142
+  - first:
+      213: -4376921257703923469
+    second: tutorial 1_143
+  - first:
+      213: -3405698182261053360
+    second: tutorial 1_144
+  - first:
+      213: -996914686715786499
+    second: tutorial 1_145
+  - first:
+      213: -6750004644164498944
+    second: tutorial 1_146
+  - first:
+      213: 947633679875490659
+    second: tutorial 1_147
+  - first:
+      213: 119785791066782745
+    second: tutorial 1_148
+  - first:
+      213: -334024037193399251
+    second: tutorial 1_149
+  - first:
+      213: -6545888729381979225
+    second: tutorial 1_150
+  - first:
+      213: 6254177020497544550
+    second: tutorial 1_151
+  - first:
+      213: -6622304410687203580
+    second: tutorial 1_152
+  - first:
+      213: -4027581140410124209
+    second: tutorial 1_153
+  - first:
+      213: 4474077470322277924
+    second: tutorial 1_154
+  - first:
+      213: 4470154348321807925
+    second: tutorial 1_155
+  - first:
+      213: 7671171455751491143
+    second: tutorial 1_156
+  - first:
+      213: 3782605372546718121
+    second: tutorial 1_157
+  - first:
+      213: 5507254857859366024
+    second: tutorial 1_158
+  - first:
+      213: 800524916072098641
+    second: tutorial 1_159
+  - first:
+      213: 2638023217776666364
+    second: tutorial 1_160
+  - first:
+      213: -320257922960196499
+    second: tutorial 1_161
+  - first:
+      213: 4213739175631444348
+    second: tutorial 1_162
+  - first:
+      213: -5254603818919685377
+    second: tutorial 1_163
+  - first:
+      213: -3919183809373111908
+    second: tutorial 1_164
+  - first:
+      213: 6696234435212199456
+    second: tutorial 1_165
+  - first:
+      213: -8760662622430758770
+    second: tutorial 1_166
+  - first:
+      213: -1423304419851891768
+    second: tutorial 1_167
+  - first:
+      213: 1855686560348641932
+    second: tutorial 1_168
+  - first:
+      213: 8156066076852920230
+    second: tutorial 1_169
+  - first:
+      213: -3303824136068679742
+    second: tutorial 1_170
+  - first:
+      213: 7026795010199103062
+    second: tutorial 1_171
+  - first:
+      213: -2860284899538176907
+    second: tutorial 1_172
+  - first:
+      213: 3640825492265832978
+    second: tutorial 1_173
+  - first:
+      213: 3810074038317698448
+    second: tutorial 1_174
+  - first:
+      213: 8743931287471973050
+    second: tutorial 1_175
+  - first:
+      213: 1085235694722298597
+    second: tutorial 1_176
+  - first:
+      213: -6224805371902578744
+    second: tutorial 1_177
+  - first:
+      213: 2791990031645691989
+    second: tutorial 1_178
+  - first:
+      213: -7331887127005399306
+    second: tutorial 1_179
+  - first:
+      213: -5574617116864609806
+    second: tutorial 1_180
+  - first:
+      213: 8874334833129503190
+    second: tutorial 1_181
+  - first:
+      213: 6529498274556246697
+    second: tutorial 1_182
+  - first:
+      213: 631245322642479740
+    second: tutorial 1_183
+  - first:
+      213: 4576473545670253471
+    second: tutorial 1_184
+  - first:
+      213: 574224221549945119
+    second: tutorial 1_185
+  - first:
+      213: 2075304362582589582
+    second: tutorial 1_186
+  - first:
+      213: -5447345798332744315
+    second: tutorial 1_187
+  - first:
+      213: -4615130778416097561
+    second: tutorial 1_188
+  - first:
+      213: 1321788557719869368
+    second: tutorial 1_189
+  - first:
+      213: 2009048580443222716
+    second: tutorial 1_190
+  - first:
+      213: -3518464001901538261
+    second: tutorial 1_191
+  - first:
+      213: 7587382893574559379
+    second: tutorial 1_192
+  - first:
+      213: -513836076603749625
+    second: tutorial 1_193
+  - first:
+      213: -4622601173603135393
+    second: tutorial 1_194
+  - first:
+      213: 468383013154036614
+    second: tutorial 1_195
+  - first:
+      213: 8357488944326454085
+    second: tutorial 1_196
+  - first:
+      213: -3454603709825632934
+    second: tutorial 1_197
+  - first:
+      213: -1450363200775150222
+    second: tutorial 1_198
+  - first:
+      213: -775785108233924361
+    second: tutorial 1_199
+  - first:
+      213: 2260680708278369742
+    second: tutorial 1_200
+  - first:
+      213: 2910813306854791740
+    second: tutorial 1_201
+  - first:
+      213: 4112190271450500652
+    second: tutorial 1_202
+  - first:
+      213: -9035376752769156992
+    second: tutorial 1_203
+  - first:
+      213: -2293319812604876455
+    second: tutorial 1_204
+  - first:
+      213: -8671810982150883932
+    second: tutorial 1_205
+  - first:
+      213: -4158285534844484272
+    second: tutorial 1_206
+  - first:
+      213: -5888373897375829739
+    second: tutorial 1_207
+  - first:
+      213: -1935029732869378625
+    second: tutorial 1_208
+  - first:
+      213: 1092173602708550732
+    second: tutorial 1_209
+  - first:
+      213: -8468430601882157677
+    second: tutorial 1_210
+  - first:
+      213: 2655607467250615793
+    second: tutorial 1_211
+  - first:
+      213: 5546452256993669355
+    second: tutorial 1_212
+  - first:
+      213: 6402883267272499067
+    second: tutorial 1_213
+  - first:
+      213: 345044564012101740
+    second: tutorial 1_214
+  - first:
+      213: 6635867317927410776
+    second: tutorial 1_215
+  - first:
+      213: -123999625309204352
+    second: tutorial 1_216
+  - first:
+      213: 256014835550790504
+    second: tutorial 1_217
+  - first:
+      213: -6148744419174491128
+    second: tutorial 1_218
+  - first:
+      213: 397020897369745175
+    second: tutorial 1_219
+  - first:
+      213: 7802768733739717670
+    second: tutorial 1_220
+  - first:
+      213: -2869371559708626473
+    second: tutorial 1_221
+  - first:
+      213: 620925316573598332
+    second: tutorial 1_222
+  - first:
+      213: -18971928489807919
+    second: tutorial 1_223
+  - first:
+      213: -4794093095566238527
+    second: tutorial 1_224
+  - first:
+      213: 3716909762668640725
+    second: tutorial 1_225
+  - first:
+      213: 8765820264184408584
+    second: tutorial 1_226
+  - first:
+      213: -7560115564953850296
+    second: tutorial 1_227
+  - first:
+      213: 7899921476586010978
+    second: tutorial 1_228
+  - first:
+      213: 4962513881438019362
+    second: tutorial 1_229
+  - first:
+      213: 957285480635503944
+    second: tutorial 1_230
+  - first:
+      213: -5647894195589367224
+    second: tutorial 1_231
+  - first:
+      213: -6467375979849073946
+    second: tutorial 1_232
+  - first:
+      213: 449323672764958441
+    second: tutorial 1_233
+  - first:
+      213: -17469221318302760
+    second: tutorial 1_234
+  - first:
+      213: -8535663977176534062
+    second: tutorial 1_235
+  - first:
+      213: 8397972694533252403
+    second: tutorial 1_236
+  - first:
+      213: 6296739362768509159
+    second: tutorial 1_237
+  - first:
+      213: 9097885644803352292
+    second: tutorial 1_238
+  - first:
+      213: 5694276453002260669
+    second: tutorial 1_239
+  - first:
+      213: 1226531071825442899
+    second: tutorial 1_240
+  - first:
+      213: -2754144208630180594
+    second: tutorial 1_241
+  - first:
+      213: -5845823711066803858
+    second: tutorial 1_242
+  - first:
+      213: -1174255692034438832
+    second: tutorial 1_243
+  - first:
+      213: -6183176263252664157
+    second: tutorial 1_244
+  - first:
+      213: -666402181270634510
+    second: tutorial 1_245
+  - first:
+      213: -274603412636109604
+    second: tutorial 1_246
+  - first:
+      213: 1474872834455067986
+    second: tutorial 1_247
+  - first:
+      213: -4595174057617624051
+    second: tutorial 1_248
+  - first:
+      213: 2997951391489855234
+    second: tutorial 1_249
+  - first:
+      213: 1047490808727816244
+    second: tutorial 1_250
+  - first:
+      213: -5411560535347676434
+    second: tutorial 1_251
+  - first:
+      213: -8751564255286602991
+    second: tutorial 1_252
+  - first:
+      213: 6997351358187951363
+    second: tutorial 1_253
+  - first:
+      213: -3861379332579441810
+    second: tutorial 1_254
+  - first:
+      213: 2462947354556068140
+    second: tutorial 1_255
+  - first:
+      213: 3500291276359661386
+    second: tutorial 1_256
+  - first:
+      213: 3457107982374008832
+    second: tutorial 1_257
+  - first:
+      213: 3020842183975027138
+    second: tutorial 1_258
+  - first:
+      213: 5903566678346455549
+    second: tutorial 1_259
+  - first:
+      213: -8357741396843896129
+    second: tutorial 1_260
+  - first:
+      213: 6537620020960469921
+    second: tutorial 1_261
+  - first:
+      213: 4297675431158622289
+    second: tutorial 1_262
+  - first:
+      213: 5862793665402642068
+    second: tutorial 1_263
+  - first:
+      213: -8204077595240898960
+    second: tutorial 1_264
+  - first:
+      213: -2102793556836538224
+    second: tutorial 1_265
+  - first:
+      213: -8992371062524057582
+    second: tutorial 1_266
+  - first:
+      213: -6784740328771854516
+    second: tutorial 1_267
+  - first:
+      213: -3178216008752656029
+    second: tutorial 1_268
+  - first:
+      213: 8265242685099965893
+    second: tutorial 1_269
+  - first:
+      213: 9005069446543851641
+    second: tutorial 1_270
+  - first:
+      213: -4508982826858092933
+    second: tutorial 1_271
+  - first:
+      213: 4364346692106232185
+    second: tutorial 1_272
+  - first:
+      213: -6401467175521964995
+    second: tutorial 1_273
+  - first:
+      213: 3325683822014457670
+    second: tutorial 1_274
+  - first:
+      213: 5697393186560818531
+    second: tutorial 1_275
+  - first:
+      213: 8067200326835374179
+    second: tutorial 1_276
+  - first:
+      213: -4685987191501216447
+    second: tutorial 1_277
+  - first:
+      213: 4000507433452902887
+    second: tutorial 1_278
+  - first:
+      213: 8908738792935877325
+    second: tutorial 1_279
+  - first:
+      213: 5283968274392239920
+    second: tutorial 1_280
+  - first:
+      213: -7866209421085527060
+    second: tutorial 1_281
+  - first:
+      213: -8991384129765630952
+    second: tutorial 1_282
+  - first:
+      213: -8409897141924230531
+    second: tutorial 1_283
+  - first:
+      213: 2389440051589161558
+    second: tutorial 1_284
+  - first:
+      213: 7287058423712748936
+    second: tutorial 1_285
+  - first:
+      213: -8279246767989388208
+    second: tutorial 1_286
+  - first:
+      213: 6375043784168748859
+    second: tutorial 1_287
+  - first:
+      213: 7564939014116356551
+    second: tutorial 1_288
+  - first:
+      213: 366211470458397297
+    second: tutorial 1_289
+  - first:
+      213: 8386585659480640686
+    second: tutorial 1_290
+  - first:
+      213: 627712011084234757
+    second: tutorial 1_291
+  - first:
+      213: 3269830759265457764
+    second: tutorial 1_292
+  - first:
+      213: 6810819017103583414
+    second: tutorial 1_293
+  - first:
+      213: 8103135774450051249
+    second: tutorial 1_294
+  - first:
+      213: 5239216590977470703
+    second: tutorial 1_295
+  - first:
+      213: 7039792933436905030
+    second: tutorial 1_296
+  - first:
+      213: -4940572029101864361
+    second: tutorial 1_297
+  - first:
+      213: -662366242691768897
+    second: tutorial 1_298
+  - first:
+      213: 6953975497638667153
+    second: tutorial 1_299
+  - first:
+      213: 7163135660655546664
+    second: tutorial 1_300
+  - first:
+      213: -7031358820904216430
+    second: tutorial 1_301
+  - first:
+      213: -9173032608445943543
+    second: tutorial 1_302
+  - first:
+      213: 7310565362815886508
+    second: tutorial 1_303
+  - first:
+      213: -604890969975985850
+    second: tutorial 1_304
+  - first:
+      213: -5562435427129762467
+    second: tutorial 1_305
+  - first:
+      213: -187517370181524350
+    second: tutorial 1_306
+  - first:
+      213: 6709461006480217091
+    second: tutorial 1_307
+  - first:
+      213: 2959731844408478186
+    second: tutorial 1_308
+  - first:
+      213: 230156804554193969
+    second: tutorial 1_309
+  - first:
+      213: -8670148689386600757
+    second: tutorial 1_310
+  - first:
+      213: -6041495469788553757
+    second: tutorial 1_311
+  - first:
+      213: 817105056246715796
+    second: tutorial 1_312
+  - first:
+      213: 111893641783471889
+    second: tutorial 1_313
+  - first:
+      213: -3114347917051467181
+    second: tutorial 1_314
+  - first:
+      213: 6990778518111998157
+    second: tutorial 1_315
+  - first:
+      213: 3422147131442100722
+    second: tutorial 1_316
+  - first:
+      213: -2757704898677388099
+    second: tutorial 1_317
+  - first:
+      213: -6478655201669775862
+    second: tutorial 1_318
+  - first:
+      213: 902968131304412896
+    second: tutorial 1_319
+  - first:
+      213: 4028868303803145213
+    second: tutorial 1_320
+  - first:
+      213: -6891700077722034263
+    second: tutorial 1_321
+  - first:
+      213: -3923180425869550343
+    second: tutorial 1_322
+  - first:
+      213: -8891499452826884645
+    second: tutorial 1_323
+  - first:
+      213: 4962859588423144572
+    second: tutorial 1_324
+  - first:
+      213: 7579292860739992276
+    second: tutorial 1_325
+  - first:
+      213: 8865269247582340994
+    second: tutorial 1_326
+  - first:
+      213: -7092947527161872059
+    second: tutorial 1_327
+  - first:
+      213: 2107546830214225875
+    second: tutorial 1_328
+  - first:
+      213: 5468690053506641416
+    second: tutorial 1_329
+  - first:
+      213: -1607928638678615989
+    second: tutorial 1_330
+  - first:
+      213: 7427615035000960289
+    second: tutorial 1_331
+  - first:
+      213: 4031213236123097348
+    second: tutorial 1_332
+  - first:
+      213: 1324462711038781608
+    second: tutorial 1_333
+  - first:
+      213: -5495107132036332019
+    second: tutorial 1_334
+  - first:
+      213: -3582321533367648053
+    second: tutorial 1_335
+  - first:
+      213: -6672525516449242033
+    second: tutorial 1_336
+  - first:
+      213: 5464087766918338296
+    second: tutorial 1_337
+  - first:
+      213: -3094891051240005417
+    second: tutorial 1_338
+  - first:
+      213: -5130766640532692271
+    second: tutorial 1_339
+  - first:
+      213: 1791312815479242670
+    second: tutorial 1_340
+  - first:
+      213: 8859727275054719536
+    second: tutorial 1_341
+  - first:
+      213: 5768598765008535082
+    second: tutorial 1_342
+  - first:
+      213: 6141234407229246386
+    second: tutorial 1_343
+  - first:
+      213: 1782283848602819658
+    second: tutorial 1_344
+  - first:
+      213: -3261082037964638370
+    second: tutorial 1_345
+  - first:
+      213: -6894783068733273654
+    second: tutorial 1_346
+  - first:
+      213: -962164562957039458
+    second: tutorial 1_347
+  - first:
+      213: 542053980163511521
+    second: tutorial 1_348
+  - first:
+      213: -5700111094201462729
+    second: tutorial 1_349
+  - first:
+      213: 5735449282254867657
+    second: tutorial 1_350
+  - first:
+      213: -7716362386939460517
+    second: tutorial 1_351
+  - first:
+      213: 5672350188252482894
+    second: tutorial 1_352
+  - first:
+      213: 198720730925494735
+    second: tutorial 1_353
+  - first:
+      213: -307013733524633130
+    second: tutorial 1_354
+  - first:
+      213: -9113147742061027081
+    second: tutorial 1_355
+  - first:
+      213: -8688484632822423823
+    second: tutorial 1_356
+  - first:
+      213: 7254922889713971943
+    second: tutorial 1_357
+  - first:
+      213: -2893408944956311877
+    second: tutorial 1_358
+  - first:
+      213: 7095720977143368585
+    second: tutorial 1_359
+  - first:
+      213: -5489599888707808497
+    second: tutorial 1_360
+  - first:
+      213: 4802652518308563369
+    second: tutorial 1_361
+  - first:
+      213: 8820430878713394511
+    second: tutorial 1_362
+  - first:
+      213: -5709558006947120662
+    second: tutorial 1_363
+  - first:
+      213: 2556847504889412828
+    second: tutorial 1_364
+  - first:
+      213: 6117962224442262737
+    second: tutorial 1_365
+  - first:
+      213: -5077480712556828746
+    second: tutorial 1_366
+  - first:
+      213: -4282601179485754329
+    second: tutorial 1_367
+  - first:
+      213: 7785283171413792452
+    second: tutorial 1_368
+  - first:
+      213: -3046251015000686737
+    second: tutorial 1_369
+  - first:
+      213: 6090619816114196001
+    second: tutorial 1_370
+  - first:
+      213: 4706532097480826037
+    second: tutorial 1_371
+  - first:
+      213: 1074351681757868063
+    second: tutorial 1_372
+  - first:
+      213: -7136286025865014271
+    second: tutorial 1_373
+  - first:
+      213: 7067816793319519848
+    second: tutorial 1_374
+  - first:
+      213: -8246966785498208140
+    second: tutorial 1_375
+  - first:
+      213: 6949656230528444318
+    second: tutorial 1_376
+  - first:
+      213: -2443008417149865356
+    second: tutorial 1_377
+  - first:
+      213: 5511181807630052348
+    second: tutorial 1_378
+  - first:
+      213: -1033976143579576557
+    second: tutorial 1_379
+  - first:
+      213: -691037256987611002
+    second: tutorial 1_380
+  - first:
+      213: -7888834719052242201
+    second: tutorial 1_381
+  - first:
+      213: 193340764961631405
+    second: tutorial 1_382
+  - first:
+      213: -5147082347538376349
+    second: tutorial 1_383
+  - first:
+      213: 7135170914496977010
+    second: tutorial 1_384
+  - first:
+      213: 2760013878682260219
+    second: tutorial 1_385
+  - first:
+      213: -5780545561166317363
+    second: tutorial 1_386
+  - first:
+      213: 1590269105805608711
+    second: tutorial 1_387
+  - first:
+      213: 6918126497102308790
+    second: tutorial 1_388
+  - first:
+      213: -7893891910922078198
+    second: tutorial 1_389
+  - first:
+      213: -6405247358322294445
+    second: tutorial 1_390
+  - first:
+      213: 4260612714465916896
+    second: tutorial 1_391
+  - first:
+      213: 3717413307885673069
+    second: tutorial 1_392
+  - first:
+      213: -8149525763304578097
+    second: tutorial 1_393
+  - first:
+      213: 8652384740344207170
+    second: tutorial 1_394
+  - first:
+      213: 7539660304009807544
+    second: tutorial 1_395
+  - first:
+      213: -6859246001067075527
+    second: tutorial 1_396
+  - first:
+      213: 1509143461511262607
+    second: tutorial 1_397
+  - first:
+      213: 7692360678297822629
+    second: tutorial 1_398
+  - first:
+      213: -5950227641962009573
+    second: tutorial 1_399
+  - first:
+      213: 3936907645044619422
+    second: tutorial 1_400
+  - first:
+      213: 9088189297560448956
+    second: tutorial 1_401
+  - first:
+      213: -2995794815037061440
+    second: tutorial 1_402
+  - first:
+      213: -5957443293518812086
+    second: tutorial 1_403
+  - first:
+      213: 7658032376473271931
+    second: tutorial 1_404
+  - first:
+      213: 7857564613381105754
+    second: tutorial 1_405
+  - first:
+      213: 4513250041834809467
+    second: tutorial 1_406
+  - first:
+      213: -2187079419512773671
+    second: tutorial 1_407
+  - first:
+      213: 9212735774860886345
+    second: tutorial 1_408
+  - first:
+      213: -6061681177764133113
+    second: tutorial 1_409
+  - first:
+      213: -8389112527529157213
+    second: tutorial 1_410
+  - first:
+      213: -4003503278978224351
+    second: tutorial 1_411
+  - first:
+      213: 3588509691040732008
+    second: tutorial 1_412
+  - first:
+      213: 4914723528796987731
+    second: tutorial 1_413
+  - first:
+      213: 7118214213368900998
+    second: tutorial 1_414
+  - first:
+      213: -4261988122943976582
+    second: tutorial 1_415
+  - first:
+      213: -7809304499048912764
+    second: tutorial 1_416
+  - first:
+      213: 9129338477862160847
+    second: tutorial 1_417
+  - first:
+      213: 3721971833655842547
+    second: tutorial 1_418
+  - first:
+      213: -9017383926416924487
+    second: tutorial 1_419
+  - first:
+      213: 1406792565322959286
+    second: tutorial 1_420
+  - first:
+      213: -8709114177572588728
+    second: tutorial 1_421
+  - first:
+      213: -451170681780739603
+    second: tutorial 1_422
+  - first:
+      213: -2658318463350798493
+    second: tutorial 1_423
+  - first:
+      213: 913504481064164177
+    second: tutorial 1_424
+  - first:
+      213: 2805025530080479118
+    second: tutorial 1_425
+  - first:
+      213: 6468524507055546241
+    second: tutorial 1_426
+  - first:
+      213: -53960668571683378
+    second: tutorial 1_427
+  - first:
+      213: -5429130496669420277
+    second: tutorial 1_428
+  - first:
+      213: 3421904372238606113
+    second: tutorial 1_429
+  - first:
+      213: 6611987070171373115
+    second: tutorial 1_430
+  - first:
+      213: -3301143774687844543
+    second: tutorial 1_431
+  - first:
+      213: 8542158762542396629
+    second: tutorial 1_432
+  - first:
+      213: 1630950746259750765
+    second: tutorial 1_433
+  - first:
+      213: -5242941910375046820
+    second: tutorial 1_434
+  - first:
+      213: 2493058408014567537
+    second: tutorial 1_435
+  - first:
+      213: 5674208597605147550
+    second: tutorial 1_436
+  - first:
+      213: 6123391873050676019
+    second: tutorial 1_437
+  - first:
+      213: 416970825116632947
+    second: tutorial 1_438
+  - first:
+      213: 5855194270387845998
+    second: tutorial 1_439
+  - first:
+      213: 8184551210895082382
+    second: tutorial 1_440
+  - first:
+      213: 1183729492380875286
+    second: tutorial 1_441
+  - first:
+      213: -1632092386359350998
+    second: tutorial 1_442
+  - first:
+      213: 1190276726624579434
+    second: tutorial 1_443
+  - first:
+      213: 2998250514746245545
+    second: tutorial 1_444
+  - first:
+      213: -2491916038520184277
+    second: tutorial 1_445
+  - first:
+      213: -6333627536927568340
+    second: tutorial 1_446
+  - first:
+      213: -376920108088441608
+    second: tutorial 1_447
+  - first:
+      213: 5374328636679678870
+    second: tutorial 1_448
+  - first:
+      213: 8217944876431857282
+    second: tutorial 1_449
+  - first:
+      213: -1333192987143938324
+    second: tutorial 1_450
+  - first:
+      213: -6981346070334367089
+    second: tutorial 1_451
+  - first:
+      213: 7480214896565397338
+    second: tutorial 1_452
+  - first:
+      213: 2411339839444508330
+    second: tutorial 1_453
+  - first:
+      213: -1114685800565066847
+    second: tutorial 1_454
+  - first:
+      213: 6466019270151071113
+    second: tutorial 1_455
+  - first:
+      213: -794835117691515945
+    second: tutorial 1_456
+  - first:
+      213: 5261368053273590994
+    second: tutorial 1_457
+  - first:
+      213: -6455148733261157092
+    second: tutorial 1_458
+  - first:
+      213: 4778324902352140582
+    second: tutorial 1_459
+  - first:
+      213: 6498532783171366388
+    second: tutorial 1_460
+  - first:
+      213: 5596319885981210021
+    second: tutorial 1_461
+  - first:
+      213: 1897238340724045567
+    second: tutorial 1_462
+  - first:
+      213: 777485846628327440
+    second: tutorial 1_463
+  - first:
+      213: 5518696703576588146
+    second: tutorial 1_464
+  - first:
+      213: 7417273027290941806
+    second: tutorial 1_465
+  - first:
+      213: -9031366129156047679
+    second: tutorial 1_466
+  - first:
+      213: -8551100290210697822
+    second: tutorial 1_467
+  - first:
+      213: -6796962127083896579
+    second: tutorial 1_468
+  - first:
+      213: -2247472399332896588
+    second: tutorial 1_469
+  - first:
+      213: 9042245528732164947
+    second: tutorial 1_470
+  - first:
+      213: -8439156901333590731
+    second: tutorial 1_471
+  - first:
+      213: -169884251745247807
+    second: tutorial 1_472
+  - first:
+      213: -5597213649729302054
+    second: tutorial 1_473
+  - first:
+      213: -2202987493238155348
+    second: tutorial 1_474
+  - first:
+      213: 8695258085344674420
+    second: tutorial 1_475
+  - first:
+      213: -4649521395071024007
+    second: tutorial 1_476
+  - first:
+      213: 5693948617950664906
+    second: tutorial 1_477
+  - first:
+      213: -8067151323646748976
+    second: tutorial 1_478
+  - first:
+      213: 7496223920717658017
+    second: tutorial 1_479
+  - first:
+      213: -2485778817491486348
+    second: tutorial 1_480
+  - first:
+      213: 3582454043216871336
+    second: tutorial 1_481
+  - first:
+      213: 3235058214135565161
+    second: tutorial 1_482
+  - first:
+      213: -5397570013462058065
+    second: tutorial 1_483
+  - first:
+      213: -1884350943456112406
+    second: tutorial 1_484
+  - first:
+      213: -3649702116256098091
+    second: tutorial 1_485
+  - first:
+      213: -7013874362782681739
+    second: tutorial 1_486
+  - first:
+      213: 2064018707803757061
+    second: tutorial 1_487
+  - first:
+      213: -8685990596045715826
+    second: tutorial 1_488
+  - first:
+      213: 767757941896924023
+    second: tutorial 1_489
+  - first:
+      213: -3419572095159621378
+    second: tutorial 1_490
+  - first:
+      213: -2810444659860499113
+    second: tutorial 1_491
+  - first:
+      213: 4215518916456871815
+    second: tutorial 1_492
+  - first:
+      213: 2888556606695713855
+    second: tutorial 1_493
+  - first:
+      213: 5448624761468785915
+    second: tutorial 1_494
+  - first:
+      213: -7038929899255336602
+    second: tutorial 1_495
+  - first:
+      213: -7339324147478362899
+    second: tutorial 1_496
+  - first:
+      213: 2266840136194388271
+    second: tutorial 1_497
+  - first:
+      213: 5070723953290401249
+    second: tutorial 1_498
+  - first:
+      213: 1548714084477997687
+    second: tutorial 1_499
+  - first:
+      213: 6368024298363237438
+    second: tutorial 1_500
+  - first:
+      213: -403291234744174479
+    second: tutorial 1_501
+  - first:
+      213: -7037564323141436220
+    second: tutorial 1_502
+  - first:
+      213: 4671795127213485543
+    second: tutorial 1_503
+  - first:
+      213: 7515866591830845517
+    second: tutorial 1_504
+  - first:
+      213: 2285097606810178676
+    second: tutorial 1_505
+  - first:
+      213: -4974080652353002854
+    second: tutorial 1_506
+  - first:
+      213: -6167442527752547918
+    second: tutorial 1_507
+  - first:
+      213: 1116166421908358740
+    second: tutorial 1_508
+  - first:
+      213: -728653161323771652
+    second: tutorial 1_509
+  - first:
+      213: 4368113971793310701
+    second: tutorial 1_510
+  - first:
+      213: -7492636435664112746
+    second: tutorial 1_511
+  - first:
+      213: -554121246097318735
+    second: tutorial 1_512
+  - first:
+      213: 4699252471432210536
+    second: tutorial 1_513
+  - first:
+      213: 1940368484073820135
+    second: tutorial 1_514
+  - first:
+      213: -8084684770877615610
+    second: tutorial 1_515
+  - first:
+      213: 3683396260236518853
+    second: tutorial 1_516
+  - first:
+      213: 8557574913180040534
+    second: tutorial 1_517
+  - first:
+      213: -3766538617623780044
+    second: tutorial 1_518
+  - first:
+      213: 6444059524995620112
+    second: tutorial 1_519
+  - first:
+      213: -7190340243787558075
+    second: tutorial 1_520
+  - first:
+      213: 5128963423460403446
+    second: tutorial 1_521
+  - first:
+      213: 1136030962556220670
+    second: tutorial 1_522
+  - first:
+      213: -4237803784280370251
+    second: tutorial 1_523
+  - first:
+      213: -4330462813102270298
+    second: tutorial 1_524
+  - first:
+      213: 2001046983213828681
+    second: tutorial 1_525
+  - first:
+      213: -696260510320915672
+    second: tutorial 1_526
+  - first:
+      213: -1612922112862170848
+    second: tutorial 1_527
+  - first:
+      213: 6848363611418641764
+    second: tutorial 1_528
+  - first:
+      213: 5244669282265430373
+    second: tutorial 1_529
+  - first:
+      213: 2953353397178249439
+    second: tutorial 1_530
+  - first:
+      213: -1017855138330810879
+    second: tutorial 1_531
+  - first:
+      213: -3013062542237326230
+    second: tutorial 1_532
+  - first:
+      213: 2672947082576268978
+    second: tutorial 1_533
+  - first:
+      213: -6667402212934266944
+    second: tutorial 1_534
+  - first:
+      213: -4431285341387236642
+    second: tutorial 1_535
+  - first:
+      213: 8634795554599227718
+    second: tutorial 1_536
+  - first:
+      213: 7768616312767021088
+    second: tutorial 1_537
+  - first:
+      213: -9000216666967107176
+    second: tutorial 1_538
+  - first:
+      213: -3621919608072135062
+    second: tutorial 1_539
+  - first:
+      213: 8090064101526080289
+    second: tutorial 1_540
+  - first:
+      213: -8123128977946351985
+    second: tutorial 1_541
+  - first:
+      213: 7948790405537545580
+    second: tutorial 1_542
+  - first:
+      213: 6355020778552887755
+    second: tutorial 1_543
+  - first:
+      213: 494384565103921101
+    second: tutorial 1_544
+  - first:
+      213: 3590139325499208713
+    second: tutorial 1_545
+  - first:
+      213: -9188120370002953722
+    second: tutorial 1_546
+  - first:
+      213: 930205994600613787
+    second: tutorial 1_547
+  - first:
+      213: 6997244238578199506
+    second: tutorial 1_548
+  - first:
+      213: 5187150396608464328
+    second: tutorial 1_549
+  - first:
+      213: -5394338094757015353
+    second: tutorial 1_550
+  - first:
+      213: -8869915079178923695
+    second: tutorial 1_551
+  - first:
+      213: -7155149419886699676
+    second: tutorial 1_552
+  - first:
+      213: 2267517752832312946
+    second: tutorial 1_553
+  - first:
+      213: -330162819364436272
+    second: tutorial 1_554
+  - first:
+      213: -3455577992669277125
+    second: tutorial 1_555
+  - first:
+      213: -1943420316365513153
+    second: tutorial 1_556
+  - first:
+      213: 1803747419872207538
+    second: tutorial 1_557
+  - first:
+      213: 7621992198174810710
+    second: tutorial 1_558
+  - first:
+      213: 78992132747390148
+    second: tutorial 1_559
+  - first:
+      213: -1788020134569337393
+    second: tutorial 1_560
+  - first:
+      213: -3796276216539992690
+    second: tutorial 1_561
+  - first:
+      213: -8876982334274030294
+    second: tutorial 1_562
+  - first:
+      213: -811196159610226886
+    second: tutorial 1_563
+  - first:
+      213: -4734054341534494528
+    second: tutorial 1_564
+  - first:
+      213: 2916588496066574907
+    second: tutorial 1_565
+  - first:
+      213: -4009629175624821435
+    second: tutorial 1_566
+  - first:
+      213: 5528151639996804593
+    second: tutorial 1_567
+  - first:
+      213: -6397633383734253974
+    second: tutorial 1_568
+  - first:
+      213: -3207262173189782852
+    second: tutorial 1_569
+  - first:
+      213: 8272682041138209958
+    second: tutorial 1_570
+  - first:
+      213: 6916312759098763403
+    second: tutorial 1_571
+  - first:
+      213: 3674105389990861934
+    second: tutorial 1_572
+  - first:
+      213: -7036565196737308669
+    second: tutorial 1_573
+  - first:
+      213: 2747955279652573973
+    second: tutorial 1_574
+  - first:
+      213: 3315141246723758727
+    second: tutorial 1_575
+  - first:
+      213: 3060768478838075985
+    second: tutorial 1_576
+  - first:
+      213: 2168381705729590127
+    second: tutorial 1_577
+  - first:
+      213: -3527709062886039474
+    second: tutorial 1_578
+  - first:
+      213: 144575857474274008
+    second: tutorial 1_579
+  - first:
+      213: 3796556858729415956
+    second: tutorial 1_580
+  - first:
+      213: -6596236959506891231
+    second: tutorial 1_581
+  - first:
+      213: 150543298775911010
+    second: tutorial 1_582
+  - first:
+      213: -5130667837485580155
+    second: tutorial 1_583
+  - first:
+      213: -5757756235364120754
+    second: tutorial 1_584
+  - first:
+      213: 4460038730023454518
+    second: tutorial 1_585
+  - first:
+      213: 2431848810713258552
+    second: tutorial 1_586
+  - first:
+      213: -2318230258539108572
+    second: tutorial 1_587
+  - first:
+      213: 1224691203658295040
+    second: tutorial 1_588
+  - first:
+      213: 3527621579170676759
+    second: tutorial 1_589
+  - first:
+      213: -9115277403580858454
+    second: tutorial 1_590
+  - first:
+      213: -8090404176306108627
+    second: tutorial 1_591
+  - first:
+      213: 3108348986571554544
+    second: tutorial 1_592
+  - first:
+      213: 8451132138081548195
+    second: tutorial 1_593
+  - first:
+      213: -2978212255979422380
+    second: tutorial 1_594
+  - first:
+      213: -880236956254021694
+    second: tutorial 1_595
+  - first:
+      213: 3451910513956166782
+    second: tutorial 1_596
+  - first:
+      213: -5045210086063329982
+    second: tutorial 1_597
+  - first:
+      213: 7347794815396137829
+    second: tutorial 1_598
+  - first:
+      213: -6424176851938142430
+    second: tutorial 1_599
+  - first:
+      213: -4298709697100715059
+    second: tutorial 1_600
+  - first:
+      213: -1466939475726840235
+    second: tutorial 1_601
+  - first:
+      213: -7799669435115457246
+    second: tutorial 1_602
+  - first:
+      213: 3408318846787528132
+    second: tutorial 1_603
+  - first:
+      213: 7069381265613469327
+    second: tutorial 1_604
+  - first:
+      213: 2725019935160141613
+    second: tutorial 1_605
+  - first:
+      213: -6402472942872067989
+    second: tutorial 1_606
+  - first:
+      213: 1878555632329788484
+    second: tutorial 1_607
+  - first:
+      213: -6434581053798120912
+    second: tutorial 1_608
+  - first:
+      213: 790234152888009783
+    second: tutorial 1_609
+  - first:
+      213: -6967323326299934201
+    second: tutorial 1_610
+  - first:
+      213: 3889482652252121502
+    second: tutorial 1_611
+  - first:
+      213: 7300968240839212161
+    second: tutorial 1_612
+  - first:
+      213: -5750301010407183596
+    second: tutorial 1_613
+  - first:
+      213: -1258624082016690624
+    second: tutorial 1_614
+  - first:
+      213: -2577536231677280839
+    second: tutorial 1_615
+  - first:
+      213: -1892307006246522
+    second: tutorial 1_616
+  - first:
+      213: -40784207563958814
+    second: tutorial 1_617
+  - first:
+      213: -6544720371420925255
+    second: tutorial 1_618
+  - first:
+      213: -5111353780140662162
+    second: tutorial 1_619
+  - first:
+      213: -5441101189633358821
+    second: tutorial 1_620
+  - first:
+      213: -6289838578283724978
+    second: tutorial 1_621
+  - first:
+      213: -2905377792139571405
+    second: tutorial 1_622
+  - first:
+      213: -473262000102657084
+    second: tutorial 1_623
+  - first:
+      213: -3833626557458490587
+    second: tutorial 1_624
+  - first:
+      213: -5188854343221824068
+    second: tutorial 1_625
+  - first:
+      213: -3120739624128587743
+    second: tutorial 1_626
+  - first:
+      213: -1005497291899889862
+    second: tutorial 1_627
+  - first:
+      213: -7519181185673422049
+    second: tutorial 1_628
+  - first:
+      213: -1215730689286654299
+    second: tutorial 1_629
+  - first:
+      213: 4063211739430415877
+    second: tutorial 1_630
+  - first:
+      213: -802663670957983616
+    second: tutorial 1_631
+  - first:
+      213: -4785458528882093185
+    second: tutorial 1_632
+  - first:
+      213: 3740823589150214849
+    second: tutorial 1_633
+  - first:
+      213: 141783180971474103
+    second: tutorial 1_634
+  - first:
+      213: -1806421030224766925
+    second: tutorial 1_635
+  - first:
+      213: 7216353759691946788
+    second: tutorial 1_636
+  - first:
+      213: 3591507611593316814
+    second: tutorial 1_637
+  - first:
+      213: -7623788301547508516
+    second: tutorial 1_638
+  - first:
+      213: 5101104897926147566
+    second: tutorial 1_639
+  - first:
+      213: 3755654717694418599
+    second: tutorial 1_640
+  - first:
+      213: 4419418540982585900
+    second: tutorial 1_641
+  - first:
+      213: 863410571352738364
+    second: tutorial 1_642
+  - first:
+      213: -6019018303004790337
+    second: tutorial 1_643
+  - first:
+      213: -6005520847102817506
+    second: tutorial 1_644
+  - first:
+      213: -4377797989518600079
+    second: tutorial 1_645
+  - first:
+      213: 1397939342038485910
+    second: tutorial 1_646
+  - first:
+      213: 3293492837608409811
+    second: tutorial 1_647
+  - first:
+      213: -7962354417389164253
+    second: tutorial 1_648
+  - first:
+      213: 6489372371541467418
+    second: tutorial 1_649
+  - first:
+      213: -6657360088560569981
+    second: tutorial 1_650
+  - first:
+      213: 5994006053991514147
+    second: tutorial 1_651
+  - first:
+      213: -8989843220495500061
+    second: tutorial 1_652
+  - first:
+      213: 6497704520938705863
+    second: tutorial 1_653
+  - first:
+      213: -7543446395644808927
+    second: tutorial 1_654
+  - first:
+      213: 8360752159284896819
+    second: tutorial 1_655
+  - first:
+      213: 5915629173850633814
+    second: tutorial 1_656
+  - first:
+      213: -8891950046001630087
+    second: tutorial 1_657
+  - first:
+      213: 3258368990327283333
+    second: tutorial 1_658
+  - first:
+      213: 3059302985428846619
+    second: tutorial 1_659
+  - first:
+      213: -1121115903071336151
+    second: tutorial 1_660
+  - first:
+      213: 2002172510569877630
+    second: tutorial 1_661
+  - first:
+      213: 3487427641958526991
+    second: tutorial 1_662
+  - first:
+      213: -6886272055148098434
+    second: tutorial 1_663
+  - first:
+      213: 6593335315625553683
+    second: tutorial 1_664
+  - first:
+      213: -4531769615170998158
+    second: tutorial 1_665
+  - first:
+      213: 4543814765586248673
+    second: tutorial 1_666
+  - first:
+      213: 6123832112720192173
+    second: tutorial 1_667
+  - first:
+      213: 2563462465509713270
+    second: tutorial 1_668
+  - first:
+      213: 7946707347845831434
+    second: tutorial 1_669
+  - first:
+      213: -7435472311386750298
+    second: tutorial 1_670
+  - first:
+      213: -1490886897822727709
+    second: tutorial 1_671
+  - first:
+      213: 33285725766701490
+    second: tutorial 1_672
+  - first:
+      213: -6927590149508532795
+    second: tutorial 1_673
+  - first:
+      213: 5052257045090441048
+    second: tutorial 1_674
+  - first:
+      213: -2127643119896561792
+    second: tutorial 1_675
+  - first:
+      213: -7976293710676010959
+    second: tutorial 1_676
+  - first:
+      213: 6995810101907066442
+    second: tutorial 1_677
+  - first:
+      213: -6645077979944537708
+    second: tutorial 1_678
+  - first:
+      213: 7562184327032377624
+    second: tutorial 1_679
+  - first:
+      213: 6270154996330073232
+    second: tutorial 1_680
+  - first:
+      213: 5724779145363902497
+    second: tutorial 1_681
+  - first:
+      213: -83116800893024839
+    second: tutorial 1_682
+  - first:
+      213: -2897692460870320362
+    second: tutorial 1_683
+  - first:
+      213: -4897077310959759503
+    second: tutorial 1_684
+  - first:
+      213: -8321432826381688394
+    second: tutorial 1_685
+  - first:
+      213: 5513802512526287027
+    second: tutorial 1_686
+  - first:
+      213: -5042123308849079564
+    second: tutorial 1_687
+  - first:
+      213: 5446079386098476619
+    second: tutorial 1_688
+  - first:
+      213: 4334510410051555774
+    second: tutorial 1_689
+  - first:
+      213: 6719256518066627308
+    second: tutorial 1_690
+  - first:
+      213: 4851028629792234503
+    second: tutorial 1_691
+  - first:
+      213: 9106996981210494001
+    second: tutorial 1_692
+  - first:
+      213: 1693930459139318005
+    second: tutorial 1_693
+  - first:
+      213: 3855252891300072871
+    second: tutorial 1_694
+  - first:
+      213: 4549860360958703779
+    second: tutorial 1_695
+  - first:
+      213: 6935818445353497725
+    second: tutorial 1_696
+  - first:
+      213: -5039003054777921028
+    second: tutorial 1_697
+  - first:
+      213: -8883904479585732749
+    second: tutorial 1_698
+  - first:
+      213: -6430895409283257098
+    second: tutorial 1_699
+  - first:
+      213: -3198129828003080697
+    second: tutorial 1_700
+  - first:
+      213: 1901241233591731491
+    second: tutorial 1_701
+  - first:
+      213: 6328289448421133202
+    second: tutorial 1_702
+  - first:
+      213: 4140404502197470246
+    second: tutorial 1_703
+  - first:
+      213: -3252645741561211117
+    second: tutorial 1_704
+  - first:
+      213: -461655782971422659
+    second: tutorial 1_705
+  - first:
+      213: -4639553921550555114
+    second: tutorial 1_706
+  - first:
+      213: 4568288726510989860
+    second: tutorial 1_707
+  - first:
+      213: -6899476803038370643
+    second: tutorial 1_708
+  - first:
+      213: -8707777489347962281
+    second: tutorial 1_709
+  - first:
+      213: 8807316598119508349
+    second: tutorial 1_710
+  - first:
+      213: -4147233033596597381
+    second: tutorial 1_711
+  - first:
+      213: 5591698117829859558
+    second: tutorial 1_712
+  - first:
+      213: -7620497040131670623
+    second: tutorial 1_713
+  - first:
+      213: -1688040024929613091
+    second: tutorial 1_714
+  - first:
+      213: 3940813152372734604
+    second: tutorial 1_715
+  - first:
+      213: -8611456760219349110
+    second: tutorial 1_716
+  - first:
+      213: -5673882891567768836
+    second: tutorial 1_717
+  - first:
+      213: 4393770937921061823
+    second: tutorial 1_718
+  - first:
+      213: -6117977156596719577
+    second: tutorial 1_719
+  - first:
+      213: 7112127467553119434
+    second: tutorial 1_720
+  - first:
+      213: -7540003764491927897
+    second: tutorial 1_721
+  - first:
+      213: -1845169415210632535
+    second: tutorial 1_722
+  - first:
+      213: 575916991224912350
+    second: tutorial 1_723
+  - first:
+      213: 1145647425862519946
+    second: tutorial 1_724
+  - first:
+      213: 4766448912600674510
+    second: tutorial 1_725
+  - first:
+      213: 1740041385084872804
+    second: tutorial 1_726
+  - first:
+      213: -6404734533891959444
+    second: tutorial 1_727
+  - first:
+      213: 878667050242904010
+    second: tutorial 1_728
+  - first:
+      213: 7272886779659843893
+    second: tutorial 1_729
+  - first:
+      213: -7645804940761683787
+    second: tutorial 1_730
+  - first:
+      213: 6369382492162529300
+    second: tutorial 1_731
+  - first:
+      213: -6664608865573944657
+    second: tutorial 1_732
+  - first:
+      213: 7073597206731222618
+    second: tutorial 1_733
+  - first:
+      213: 8350672343626688971
+    second: tutorial 1_734
+  - first:
+      213: -1611673744248696914
+    second: tutorial 1_735
+  - first:
+      213: 5616151439395302148
+    second: tutorial 1_736
+  - first:
+      213: -6925460385223168889
+    second: tutorial 1_737
+  - first:
+      213: 1622904018196082383
+    second: tutorial 1_738
+  - first:
+      213: -7500191963394302405
+    second: tutorial 1_739
+  - first:
+      213: -8498515763591703290
+    second: tutorial 1_740
+  - first:
+      213: 7440038271012310236
+    second: tutorial 1_741
+  - first:
+      213: 1892533642410964421
+    second: tutorial 1_742
+  - first:
+      213: 4109601971499849618
+    second: tutorial 1_743
+  - first:
+      213: 8415495715212144891
+    second: tutorial 1_744
+  - first:
+      213: -4798243270249241927
+    second: tutorial 1_745
+  - first:
+      213: 7842260639943436155
+    second: tutorial 1_746
+  - first:
+      213: 8249750137106140966
+    second: tutorial 1_747
+  - first:
+      213: 1514483679955134089
+    second: tutorial 1_748
+  - first:
+      213: -3356322037025084609
+    second: tutorial 1_749
+  - first:
+      213: -8141245398592578834
+    second: tutorial 1_750
+  - first:
+      213: -2890453207137266832
+    second: tutorial 1_751
+  - first:
+      213: -2980226274120006890
+    second: tutorial 1_752
+  - first:
+      213: -2262614135275975506
+    second: tutorial 1_753
+  - first:
+      213: -3768973324274239242
+    second: tutorial 1_754
+  - first:
+      213: -4362190868460478649
+    second: tutorial 1_755
+  - first:
+      213: 7241523394179006768
+    second: tutorial 1_756
+  - first:
+      213: -3980368750905624037
+    second: tutorial 1_757
+  - first:
+      213: -1335809610434875407
+    second: tutorial 1_758
+  - first:
+      213: 4743153244121823834
+    second: tutorial 1_759
+  - first:
+      213: -4096213192929878877
+    second: tutorial 1_760
+  - first:
+      213: 4604171720253080582
+    second: tutorial 1_761
+  - first:
+      213: -4384473074793439476
+    second: tutorial 1_762
+  - first:
+      213: -1036480540530493413
+    second: tutorial 1_763
+  - first:
+      213: -576609249407176084
+    second: tutorial 1_764
+  - first:
+      213: 1174042917062812836
+    second: tutorial 1_765
+  - first:
+      213: 3992070915394914360
+    second: tutorial 1_766
+  - first:
+      213: -3471874555413592615
+    second: tutorial 1_767
+  - first:
+      213: -7384605550922040488
+    second: tutorial 1_768
+  - first:
+      213: 3722431996991741157
+    second: tutorial 1_769
+  - first:
+      213: -8798630558319533073
+    second: tutorial 1_770
+  - first:
+      213: 6922698128609200753
+    second: tutorial 1_771
+  - first:
+      213: 8782997965534669847
+    second: tutorial 1_772
+  - first:
+      213: -5781413502041992762
+    second: tutorial 1_773
+  - first:
+      213: -5522220377385740631
+    second: tutorial 1_774
+  - first:
+      213: 2891582667538788560
+    second: tutorial 1_775
+  - first:
+      213: 7813604662212794487
+    second: tutorial 1_776
+  - first:
+      213: -41173732695084618
+    second: tutorial 1_777
+  - first:
+      213: -5437996088395445370
+    second: tutorial 1_778
+  - first:
+      213: -7993838542923110836
+    second: tutorial 1_779
+  - first:
+      213: -6326994940612711803
+    second: tutorial 1_780
+  - first:
+      213: 6237479596171764102
+    second: tutorial 1_781
+  - first:
+      213: -4509505656277178261
+    second: tutorial 1_782
+  - first:
+      213: -4411312434269028386
+    second: tutorial 1_783
+  - first:
+      213: 438840563965402787
+    second: tutorial 1_784
+  - first:
+      213: -1229744286745121074
+    second: tutorial 1_785
+  - first:
+      213: -3513023538810253223
+    second: tutorial 1_786
+  - first:
+      213: 8948806561615251896
+    second: tutorial 1_787
+  - first:
+      213: -2250128028509449069
+    second: tutorial 1_788
+  - first:
+      213: 1401134510270270986
+    second: tutorial 1_789
+  - first:
+      213: -5242800503330430788
+    second: tutorial 1_790
+  - first:
+      213: -8086443434306416575
+    second: tutorial 1_791
+  - first:
+      213: -2787393267457136555
+    second: tutorial 1_792
+  - first:
+      213: -5592846106527879080
+    second: tutorial 1_793
+  - first:
+      213: -4305174294167619293
+    second: tutorial 1_794
+  - first:
+      213: -5722810864600864989
+    second: tutorial 1_795
+  - first:
+      213: -6386814682297854034
+    second: tutorial 1_796
+  - first:
+      213: 7658004279347073796
+    second: tutorial 1_797
+  - first:
+      213: 5710405879503724463
+    second: tutorial 1_798
+  - first:
+      213: -8267023316199899
+    second: tutorial 1_799
+  - first:
+      213: 6048847945691065235
+    second: tutorial 1_800
+  - first:
+      213: 6166725464319949422
+    second: tutorial 1_801
+  - first:
+      213: 1430861785971033159
+    second: tutorial 1_802
+  - first:
+      213: 4780528574000695930
+    second: tutorial 1_803
+  - first:
+      213: -3820500339282118719
+    second: tutorial 1_804
+  - first:
+      213: -111016248320198804
+    second: tutorial 1_805
+  - first:
+      213: 666302356600658216
+    second: tutorial 1_806
+  - first:
+      213: -5106776762756379041
+    second: tutorial 1_807
+  - first:
+      213: -789439031682763896
+    second: tutorial 1_808
+  - first:
+      213: 2907420533035093995
+    second: tutorial 1_809
+  - first:
+      213: 3375196654684913538
+    second: tutorial 1_810
+  - first:
+      213: -3323396375721269088
+    second: tutorial 1_811
+  - first:
+      213: 326808730503390451
+    second: tutorial 1_812
+  - first:
+      213: 8469797494367705465
+    second: tutorial 1_813
+  - first:
+      213: -3085702413567367453
+    second: tutorial 1_814
+  - first:
+      213: 6041891039671185738
+    second: tutorial 1_815
+  - first:
+      213: -1570467255713578661
+    second: tutorial 1_816
+  - first:
+      213: -3863722420165135733
+    second: tutorial 1_817
+  - first:
+      213: 592681311003694367
+    second: tutorial 1_818
+  - first:
+      213: 2699338744617388128
+    second: tutorial 1_819
+  - first:
+      213: 2149724761673163111
+    second: tutorial 1_820
+  - first:
+      213: 1526363928362276662
+    second: tutorial 1_821
+  - first:
+      213: -5049523981171740679
+    second: tutorial 1_822
+  - first:
+      213: 4298184779054493094
+    second: tutorial 1_823
+  - first:
+      213: -668265569374706800
+    second: tutorial 1_824
+  - first:
+      213: -3134557937934620507
+    second: tutorial 1_825
+  - first:
+      213: -1249960308297015702
+    second: tutorial 1_826
+  - first:
+      213: 3655574369434714984
+    second: tutorial 1_827
+  - first:
+      213: -7035141858605374900
+    second: tutorial 1_828
+  - first:
+      213: 3741363973168265487
+    second: tutorial 1_829
+  - first:
+      213: -8402074767549690809
+    second: tutorial 1_830
+  - first:
+      213: -4705124303475082180
+    second: tutorial 1_831
+  - first:
+      213: -2195379068325267595
+    second: tutorial 1_832
+  - first:
+      213: -8519336532733157133
+    second: tutorial 1_833
+  - first:
+      213: 7859725484466014100
+    second: tutorial 1_834
+  - first:
+      213: -5267586880264214544
+    second: tutorial 1_835
+  - first:
+      213: -1774690211662954247
+    second: tutorial 1_836
+  - first:
+      213: -8099621433819577245
+    second: tutorial 1_837
+  - first:
+      213: 6050653754065412159
+    second: tutorial 1_838
+  - first:
+      213: -5497210163968751173
+    second: tutorial 1_839
+  - first:
+      213: 7796366473326818127
+    second: tutorial 1_840
+  - first:
+      213: -4468454914140662084
+    second: tutorial 1_841
+  - first:
+      213: 5818549723223188394
+    second: tutorial 1_842
+  - first:
+      213: 4240224009173069434
+    second: tutorial 1_843
+  - first:
+      213: -4721903368270568756
+    second: tutorial 1_844
+  - first:
+      213: -4118274997609466100
+    second: tutorial 1_845
+  - first:
+      213: -7137217304607313480
+    second: tutorial 1_846
+  - first:
+      213: 8710800306031161848
+    second: tutorial 1_847
+  - first:
+      213: -4746086683775437504
+    second: tutorial 1_848
+  - first:
+      213: -1348400768633925527
+    second: tutorial 1_849
+  - first:
+      213: 5060441767605693907
+    second: tutorial 1_850
+  - first:
+      213: -8633632676682915984
+    second: tutorial 1_851
+  - first:
+      213: -3123810308091704012
+    second: tutorial 1_852
+  - first:
+      213: -234854371162334220
+    second: tutorial 1_853
+  - first:
+      213: 5306543198263959984
+    second: tutorial 1_854
+  - first:
+      213: 777727485124720081
+    second: tutorial 1_855
+  - first:
+      213: -1862035739675038262
+    second: tutorial 1_856
+  - first:
+      213: -75672684235219849
+    second: tutorial 1_857
+  - first:
+      213: 7645854703750371004
+    second: tutorial 1_858
+  - first:
+      213: 4522311969590927082
+    second: tutorial 1_859
+  - first:
+      213: 2385232000926883673
+    second: tutorial 1_860
+  - first:
+      213: 4556198219784297096
+    second: tutorial 1_861
+  - first:
+      213: -8463336240511587836
+    second: tutorial 1_862
+  - first:
+      213: 6263417905432646726
+    second: tutorial 1_863
+  - first:
+      213: 4226062274770316541
+    second: tutorial 1_864
+  - first:
+      213: 3873461785210149685
+    second: tutorial 1_865
+  - first:
+      213: -449226288191616543
+    second: tutorial 1_866
+  - first:
+      213: -5321343760971306091
+    second: tutorial 1_867
+  - first:
+      213: 5495524397763089860
+    second: tutorial 1_868
+  - first:
+      213: -4429946605372044729
+    second: tutorial 1_869
+  - first:
+      213: -7810637977957411220
+    second: tutorial 1_870
+  - first:
+      213: -8894490026521515699
+    second: tutorial 1_871
+  - first:
+      213: -4467448350541788337
+    second: tutorial 1_872
+  - first:
+      213: -4934726406216242232
+    second: tutorial 1_873
+  - first:
+      213: 8915053844800268496
+    second: tutorial 1_874
+  - first:
+      213: 930665373827339333
+    second: tutorial 1_875
+  - first:
+      213: 6651853111498372852
+    second: tutorial 1_876
+  - first:
+      213: 2540198035725942770
+    second: tutorial 1_877
+  - first:
+      213: 1068053469187070269
+    second: tutorial 1_878
+  - first:
+      213: 2354198418977099905
+    second: tutorial 1_879
+  - first:
+      213: -4993861288643209910
+    second: tutorial 1_880
+  - first:
+      213: 8134020164258716994
+    second: tutorial 1_881
+  - first:
+      213: 8190138459595714899
+    second: tutorial 1_882
+  - first:
+      213: 740047163194556788
+    second: tutorial 1_883
+  - first:
+      213: -8703061602123741149
+    second: tutorial 1_884
+  - first:
+      213: 6709584053593625721
+    second: tutorial 1_885
+  - first:
+      213: -5754548439638048723
+    second: tutorial 1_886
+  - first:
+      213: -6760244590543469568
+    second: tutorial 1_887
+  - first:
+      213: 5431226912782915932
+    second: tutorial 1_888
+  - first:
+      213: 4471687470782580496
+    second: tutorial 1_889
+  - first:
+      213: -8081573210932190775
+    second: tutorial 1_890
+  - first:
+      213: -4241442265233665800
+    second: tutorial 1_891
+  - first:
+      213: 865171841334619777
+    second: tutorial 1_892
+  - first:
+      213: 7585832834436107678
+    second: tutorial 1_893
+  - first:
+      213: -7547731206350215479
+    second: tutorial 1_894
+  - first:
+      213: -1724419735682888636
+    second: tutorial 1_895
+  - first:
+      213: -1949254272592601810
+    second: tutorial 1_896
+  - first:
+      213: 5593940714462115632
+    second: tutorial 1_897
+  - first:
+      213: -8797350934588706788
+    second: tutorial 1_898
+  - first:
+      213: 2535670362529090978
+    second: tutorial 1_899
+  - first:
+      213: 2376472165689145385
+    second: tutorial 1_900
+  - first:
+      213: -5798388213886186449
+    second: tutorial 1_901
+  - first:
+      213: 2291158140207826763
+    second: tutorial 1_902
+  - first:
+      213: -4032024186507433391
+    second: tutorial 1_903
+  - first:
+      213: 2058544017905693709
+    second: tutorial 1_904
+  - first:
+      213: -1035920499859703222
+    second: tutorial 1_905
+  - first:
+      213: -3001390978474956632
+    second: tutorial 1_906
+  - first:
+      213: -7095529314981218812
+    second: tutorial 1_907
+  - first:
+      213: 915884581034681134
+    second: tutorial 1_908
+  - first:
+      213: -852609229390832888
+    second: tutorial 1_909
+  - first:
+      213: -5181491808055063512
+    second: tutorial 1_910
+  - first:
+      213: 159585571996826187
+    second: tutorial 1_911
+  - first:
+      213: -1761035577579952923
+    second: tutorial 1_912
+  - first:
+      213: 8104397095096949312
+    second: tutorial 1_913
+  - first:
+      213: -4606412024892899622
+    second: tutorial 1_914
+  - first:
+      213: 7168945840011270151
+    second: tutorial 1_915
+  - first:
+      213: -9027173575207017072
+    second: tutorial 1_916
+  - first:
+      213: 3015933229667655637
+    second: tutorial 1_917
+  - first:
+      213: -442894267760032022
+    second: tutorial 1_918
+  - first:
+      213: -4498577533951042183
+    second: tutorial 1_919
+  - first:
+      213: 4647774841535275511
+    second: tutorial 1_920
+  - first:
+      213: 3852707022148828264
+    second: tutorial 1_921
+  - first:
+      213: -2327014678731505419
+    second: tutorial 1_922
+  - first:
+      213: 6517944915619745
+    second: tutorial 1_923
+  - first:
+      213: -8232101783143881569
+    second: tutorial 1_924
+  - first:
+      213: 5680438192991348539
+    second: tutorial 1_925
+  - first:
+      213: 1547665458416172946
+    second: tutorial 1_926
+  - first:
+      213: -7028745641023369390
+    second: tutorial 1_927
+  - first:
+      213: -5709168453246603927
+    second: tutorial 1_928
+  - first:
+      213: 8673841765559014494
+    second: tutorial 1_929
+  - first:
+      213: -8421022550277499986
+    second: tutorial 1_930
+  - first:
+      213: 8193138860821510367
+    second: tutorial 1_931
+  - first:
+      213: 2388716691039147785
+    second: tutorial 1_932
+  - first:
+      213: 6801153669514712606
+    second: tutorial 1_933
+  - first:
+      213: 1406458981948501939
+    second: tutorial 1_934
+  - first:
+      213: -654573036754560043
+    second: tutorial 1_935
+  - first:
+      213: 8769743490019063358
+    second: tutorial 1_936
+  - first:
+      213: -7577121136019935095
+    second: tutorial 1_937
+  - first:
+      213: -603898042033026872
+    second: tutorial 1_938
+  - first:
+      213: -7889515122783553100
+    second: tutorial 1_939
+  - first:
+      213: 4388558344787416770
+    second: tutorial 1_940
+  - first:
+      213: 53615419310082756
+    second: tutorial 1_941
+  - first:
+      213: -9075336372323221384
+    second: tutorial 1_942
+  - first:
+      213: -4779139877516306866
+    second: tutorial 1_943
+  - first:
+      213: 8954469957578761874
+    second: tutorial 1_944
+  - first:
+      213: -5703275964465265006
+    second: tutorial 1_945
+  - first:
+      213: 3931555172797343718
+    second: tutorial 1_946
+  - first:
+      213: -7054213960099358528
+    second: tutorial 1_947
+  - first:
+      213: -3663085437258791888
+    second: tutorial 1_948
+  - first:
+      213: -99228433044926731
+    second: tutorial 1_949
+  - first:
+      213: -858638365679963378
+    second: tutorial 1_950
+  - first:
+      213: -3477869097769212802
+    second: tutorial 1_951
+  - first:
+      213: -4092096498815508639
+    second: tutorial 1_952
+  - first:
+      213: 5503010389007035483
+    second: tutorial 1_953
+  - first:
+      213: 7358090768650308951
+    second: tutorial 1_954
+  - first:
+      213: -3668631022579314212
+    second: tutorial 1_955
+  - first:
+      213: -8419335442356739772
+    second: tutorial 1_956
+  - first:
+      213: 4026326751445386571
+    second: tutorial 1_957
+  - first:
+      213: 6457118149174352730
+    second: tutorial 1_958
+  - first:
+      213: -2319792398466125837
+    second: tutorial 1_959
+  - first:
+      213: -7835679761666693310
+    second: tutorial 1_960
+  - first:
+      213: 6658060326490156455
+    second: tutorial 1_961
+  - first:
+      213: 3133352023431965281
+    second: tutorial 1_962
+  - first:
+      213: 8434276379357832550
+    second: tutorial 1_963
+  - first:
+      213: 2373920132071797429
+    second: tutorial 1_964
+  - first:
+      213: 5097154989660464052
+    second: tutorial 1_965
+  - first:
+      213: 9012401387038185706
+    second: tutorial 1_966
+  - first:
+      213: 1738795277836115054
+    second: tutorial 1_967
+  - first:
+      213: 7495071634500987169
+    second: tutorial 1_968
+  - first:
+      213: 8103327615272418183
+    second: tutorial 1_969
+  - first:
+      213: -6921902141495673161
+    second: tutorial 1_970
+  - first:
+      213: -6716753962086785545
+    second: tutorial 1_971
+  - first:
+      213: -6688446560741510059
+    second: tutorial 1_972
+  - first:
+      213: 759671357415884708
+    second: tutorial 1_973
+  - first:
+      213: 1838931396193759167
+    second: tutorial 1_974
+  - first:
+      213: 2806189672061846746
+    second: tutorial 1_975
+  - first:
+      213: -7360199699711163510
+    second: tutorial 1_976
+  - first:
+      213: -6062975588382525934
+    second: tutorial 1_977
+  - first:
+      213: -898510139820186576
+    second: tutorial 1_978
+  - first:
+      213: -5051311927519636419
+    second: tutorial 1_979
+  - first:
+      213: -8132858582999376254
+    second: tutorial 1_980
+  - first:
+      213: 5859707465728431569
+    second: tutorial 1_981
+  - first:
+      213: 2036684100338110302
+    second: tutorial 1_982
+  - first:
+      213: 1441635766490806945
+    second: tutorial 1_983
+  - first:
+      213: 3668401048423427145
+    second: tutorial 1_984
+  - first:
+      213: -3177619318421343724
+    second: tutorial 1_985
+  - first:
+      213: 8299828020749159287
+    second: tutorial 1_986
+  - first:
+      213: 1789704950581330334
+    second: tutorial 1_987
+  - first:
+      213: -7998300075067589308
+    second: tutorial 1_988
+  - first:
+      213: 5526106508965096410
+    second: tutorial 1_989
+  - first:
+      213: 2559229224002685292
+    second: tutorial 1_990
+  - first:
+      213: 972282481679654085
+    second: tutorial 1_991
+  - first:
+      213: -7902636460896455723
+    second: tutorial 1_992
+  - first:
+      213: -8807214148858206691
+    second: tutorial 1_993
+  - first:
+      213: -29392128507209864
+    second: tutorial 1_994
+  - first:
+      213: 6059568363238752676
+    second: tutorial 1_995
+  - first:
+      213: 4299369877061359123
+    second: tutorial 1_996
+  - first:
+      213: 1531944678098725997
+    second: tutorial 1_997
+  - first:
+      213: -3000872812912495723
+    second: tutorial 1_998
+  - first:
+      213: -5763498043799849426
+    second: tutorial 1_999
+  - first:
+      213: -7357921236888605246
+    second: tutorial 1_1000
+  - first:
+      213: 2703585423932933643
+    second: tutorial 1_1001
+  - first:
+      213: -1598515031048711271
+    second: tutorial 1_1002
+  - first:
+      213: 9189876874595618471
+    second: tutorial 1_1003
+  - first:
+      213: 5707575971667342623
+    second: tutorial 1_1004
+  - first:
+      213: -2824866128365046871
+    second: tutorial 1_1005
+  - first:
+      213: 5991136459102173691
+    second: tutorial 1_1006
+  - first:
+      213: 41500354280718852
+    second: tutorial 1_1007
+  - first:
+      213: -8845681349000615476
+    second: tutorial 1_1008
+  - first:
+      213: 5127533341729669873
+    second: tutorial 1_1009
+  - first:
+      213: 3029978695745289164
+    second: tutorial 1_1010
+  - first:
+      213: 3605425900365630686
+    second: tutorial 1_1011
+  - first:
+      213: 6663949813554765181
+    second: tutorial 1_1012
+  - first:
+      213: -4347513135241026934
+    second: tutorial 1_1013
+  - first:
+      213: 3226663024689364602
+    second: tutorial 1_1014
+  - first:
+      213: -1898787231009289265
+    second: tutorial 1_1015
+  - first:
+      213: -3233283139826119701
+    second: tutorial 1_1016
+  - first:
+      213: -8906897083887263884
+    second: tutorial 1_1017
+  - first:
+      213: 2891356616785800466
+    second: tutorial 1_1018
+  - first:
+      213: 1183839194267355119
+    second: tutorial 1_1019
+  - first:
+      213: -9095595619274995357
+    second: tutorial 1_1020
+  - first:
+      213: -3435352208249093193
+    second: tutorial 1_1021
+  - first:
+      213: -6655938172844063727
+    second: tutorial 1_1022
+  - first:
+      213: -6188487647532829045
+    second: tutorial 1_1023
+  - first:
+      213: -2726206439938568344
+    second: tutorial 1_1024
+  - first:
+      213: -8470462232722909919
+    second: tutorial 1_1025
+  - first:
+      213: 3776082917648967692
+    second: tutorial 1_1026
+  - first:
+      213: -8492207406012134927
+    second: tutorial 1_1027
+  - first:
+      213: 8017722385178220526
+    second: tutorial 1_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorial 1_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4134
+        width: 1170
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7de34970ca44f60800000000000000
+      internalID: 8017722385178220526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3965
+        width: 1170
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79416f03a3033210800000000000000
+      internalID: 1311395915367532926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3505
+        width: 1170
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44848e26d31c1580800000000000000
+      internalID: -8855180956692872117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2911
+        width: 1157
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0684ca0725de3f7a0800000000000000
+      internalID: -6344466511701456800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2092
+        width: 1367
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f144e22ddfa2993c0800000000000000
+      internalID: -4352400295235533793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1377
+        width: 1165
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769d10ec0d78c110800000000000000
+      internalID: 1281411588240021115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 757
+        width: 1170
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f844c11e9641a0800000000000000
+      internalID: -6825594386088659722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 402
+        width: 1176
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88b8b1d36098b20800000000000000
+      internalID: 3137045474965162198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 187
+        width: 1243
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d10b103002baf0800000000000000
+      internalID: -382242811761535117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1eb7167666d25e442ba1524a22a265c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

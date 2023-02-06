@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7514612813787338118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7514612813787338119}
+  - component: {fileID: 7514612813787338116}
+  m_Layer: 0
+  m_Name: ObjectPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7514612813787338119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7514612813787338118}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7514612813787338116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7514612813787338118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b36983b60f80bf4babc4d84338fd5e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolList:
+  - inactiveObjectPool: []
+    activeObjectPool: []
+    key: 0
+    prefab: {fileID: 8122496050525356142, guid: 3d611600b225fd14b9453fb0d637a8f6,
+      type: 3}
+    initialPoolSize: 3
+  - inactiveObjectPool: []
+    activeObjectPool: []
+    key: 1
+    prefab: {fileID: 2974386358068028960, guid: ab9f6e22e5776ba4aa6842c14da6cf0f,
+      type: 3}
+    initialPoolSize: 5
+  - inactiveObjectPool: []
+    activeObjectPool: []
+    key: 2
+    prefab: {fileID: 6410343718019864681, guid: d963969bf22c16844b1a0dd8286c85fd,
+      type: 3}
+    initialPoolSize: 3
+  - inactiveObjectPool: []
+    activeObjectPool: []
+    key: 4
+    prefab: {fileID: 2610823939199542047, guid: e7af28d76586f2342a1d80207c834050,
+      type: 3}
+    initialPoolSize: 2
+  - inactiveObjectPool: []
+    activeObjectPool: []
+    key: 3
+    prefab: {fileID: 1477158477373914, guid: 2602b75cba0e1e54bb8cb74a71c397a4, type: 3}
+    initialPoolSize: 4
